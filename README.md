@@ -39,4 +39,4 @@ Pointer Analysis tool is a flask web-app that provides insights based on your ac
 
 
 
-[requirements.txt]:(https://github.com/glenveigas437/PointerAnalysisTool/blob/main/requirements.txt)
+[requirements.txt]: https://github.com/glenveigas437/PointerAnalysisTool/blob/main/requirements.txt
