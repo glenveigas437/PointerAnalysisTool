@@ -47,7 +47,7 @@ I have entered the SGPA of my last 7 semesters.
 ### 7) Desired Score and Result
 ![Entering desired score](https://user-images.githubusercontent.com/31877827/126904425-60b04ff0-784c-4236-b44c-4d2775652f00.png)
 
-I desire to have a CGPA(Cumulative Grade Pointer Average) of 7.25 at end of my course this function returns the result if I can complete my course with the desired CGPA and how much I need to score in my remaining semesters, if not then it returns the most realistic score I can achieve.
+I desire to have a CGPA(Cumulative Grade Pointer Average) of 7.25 at the end of my course this function returns the result if I can complete my course with the desired CGPA and how much I need to score in my remaining semesters, if not then it returns the most realistic score I can achieve.
 
 
 ![Expected Score](https://user-images.githubusercontent.com/31877827/126904556-7f34ce56-45f2-4961-9121-b21d36a64708.png)
@@ -67,6 +67,10 @@ Prediction result
 ![LSTM Preiction Result](https://user-images.githubusercontent.com/31877827/126906216-a2448c9c-ac3d-4a3b-ae20-5deda588d214.png)
 
 Haha...as per my performance the model predicts I will score a perfect 10 in my next semester.
+
+
+# LSTM
+Read More anout LSTM [here]
 
 
 
@@ -111,3 +115,4 @@ Haha...as per my performance the model predicts I will score a perfect 10 in my 
 
 
 [requirements.txt]: https://github.com/glenveigas437/PointerAnalysisTool/blob/main/requirements.txt
+[here]: https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/
