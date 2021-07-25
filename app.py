@@ -191,7 +191,6 @@ def getPredict():
         yhat = model.predict(x_input, verbose=0)
         if(yhat[0][0]>10):
             yhat[0][0]=10
-        yhat[0][0]=round(yhat[0][0])
         marks.append(yhat[0][0])
         lst_output.append(yhat[0][0])
         sem.append(len(marks))
