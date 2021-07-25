@@ -5,4 +5,4 @@ Pointer Analysis tool is a flask web-app that provides insights based on your ac
 
 - Download the repository.
 - Unzip the folder.
-- [Install the required dependancies from](https://github.com/glenveigas437/PointerAnalysisTool/blob/main/requirements.txt)
+- Or leave it empty and use the [link text itself]
